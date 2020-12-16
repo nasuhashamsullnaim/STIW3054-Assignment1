@@ -1,10 +1,6 @@
 ## Student Info:
 #### 1. Matric Number : 259265
 #### 2. Name          : Nasuha binti Shamsull Naim
-#### 3. Photo         :
-<img src = "https://github.com/STIW3054-A192/stiw3054-assignment1-nasuhashamsullnaim/blob/master/images/Nasuha.jpg" width = "500" />
-
-#### 4. Other related info (if any)
 
 ## Introduction :
 This system is for pos laju delivery. It will make user choose type of delivery, type of package, input the weight of parcel and it will automatically calculate for the payment for user. Next, we implement a runnable and add 4 thread in each type of delivery for 5 seconds.
